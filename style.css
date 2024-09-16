@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#main-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#header {
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+#header-table {
+    width: 100%;
+}
+
+#logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #04AA6D;
+}
+
+#menu-table td {
+    padding: 0 10px;
+}
+
+#search input {
+    padding: 5px;
+    width: 200px;
+}
+
+#user-actions span {
+    margin-left: 10px;
+}
+
+#subheader {
+    background-color: #282A35;
+    color: white;
+}
+
+#subheader-table {
+    width: 100%;
+}
+
+#subheader-table td {
+    padding: 10px 5px;
+    font-size: 14px;
+}
+
+#sidebar {
+    width: 200px;
+    background-color: #E7E9EB;
+    vertical-align: top;
+}
+
+#sidebar-table td {
+    padding: 5px 10px;
+}
+
+#content {
+    padding: 20px;
+    vertical-align: top;
+}
+
+#content h1 {
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+#home-btn, #next-btn {
+    background-color: #04AA6D;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 5px;
+}
+
+#study-btn {
+    background-color: #04AA6D;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+#example {
+    background-color: #E7E9EB;
+    padding: 15px;
+    border-left: 4px solid #04AA6D;
+}
